@@ -2,8 +2,10 @@
 
 
 import './App.css'
+import Footer from './components/Footer/Footer'
 import Navbar from './components/Navbar/Navbar'
 import Overview from './components/Overview/Overview'
+import Transactions from './components/Transactions/Transactions'
 
 
 function App() {
@@ -13,6 +15,8 @@ function App() {
     <div className=' pl-8 pr-8  w-screen'>
       <Navbar/>
       <Overview/>
+      <Transactions/>
+      <Footer/>
     </div>
 
 

@@ -11,7 +11,9 @@ export default {
           500 :"#146EB4" ,
           700 : "#0E4F82"
         } ,
-        lightGray : "#F2F2F2"
+        lightGray : "#F2F2F2" ,
+        grayText : "#4D4D4D",
+        green : "#22C55E"
       }
     },
   },
