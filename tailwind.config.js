@@ -13,7 +13,10 @@ export default {
         } ,
         lightGray : "#F2F2F2" ,
         grayText : "#4D4D4D",
-        green : "#22C55E"
+        green : "#22C55E",
+        asideBg : "#1E2640",
+        asideBtnBgPrimary : "#353C53",
+        asideBtnBgSecondary : "#4A5065"
       }
     },
   },
